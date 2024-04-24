@@ -1,0 +1,14 @@
+D:\ICproject\GitPractice\GitSample\GitSample\bin\Debug\net8.0\GitSample.exe
+D:\ICproject\GitPractice\GitSample\GitSample\bin\Debug\net8.0\GitSample.deps.json
+D:\ICproject\GitPractice\GitSample\GitSample\bin\Debug\net8.0\GitSample.runtimeconfig.json
+D:\ICproject\GitPractice\GitSample\GitSample\bin\Debug\net8.0\GitSample.dll
+D:\ICproject\GitPractice\GitSample\GitSample\bin\Debug\net8.0\GitSample.pdb
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.AssemblyInfoInputs.cache
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.AssemblyInfo.cs
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.csproj.CoreCompileInputs.cache
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.dll
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\refint\GitSample.dll
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.pdb
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\GitSample.genruntimeconfig.cache
+D:\ICproject\GitPractice\GitSample\GitSample\obj\Debug\net8.0\ref\GitSample.dll
